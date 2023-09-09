@@ -10,9 +10,9 @@
   <p align="center">
     Script which add auto authorized_keys update to crontab
     <br />
-    <a href="https://github.com/itsmrval/pve-sh/issues">Signaler un bug</a>
+    <a href="https://github.com/itsmrval/iut-pubkey/issues">Signaler un bug</a>
     ·
-    <a href="https://github.com/itsmrval/pve-sh/pulls">Pull request</a>
+    <a href="https://github.com/itsmrval/iut-pubkey/pulls">Pull request</a>
   </p>
 </div>
 
